@@ -26,7 +26,7 @@
 <body>
 	<div>
 		<div>
-			<h1 style="text-align: center;">Welcome to  托伊's  WebSite</h1>
+			<h1 style="text-align: center;">Welcome to "#Insert Name#"  WebSite</h1>
 			<br>
 			<br>
 			<hr>
